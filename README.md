@@ -15,25 +15,6 @@ CyberGuard is a customizable and user-friendly cybersecurity tool that uses AI t
 *   **Recommendations:** CyberGuard provides recommendations for improvement based on the detected vulnerabilities.
 
 **Installation**
-Here is the updated README.md file with the requested changes:
-
-**CyberGuard: A Customizable and User-Friendly Cybersecurity Tool**
-===========================================================
-
-**Introduction**
----------------
-
-CyberGuard is a customizable and user-friendly cybersecurity tool that uses AI to scan networks, detect vulnerabilities, and provide recommendations for improvement. This tool is designed to be easy to use and understand, making it accessible to users of all skill levels.
-
-**Features**
-------------
-
-*   **Network Scanning:** CyberGuard can scan networks to identify connected devices and their IP addresses.
-*   **Port Scanning:** CyberGuard can scan ports to identify open ports and potential vulnerabilities.
-*   **Vulnerability Detection:** CyberGuard uses an AI model to detect vulnerabilities based on the scan results.
-*   **Recommendations:** CyberGuard provides recommendations for improvement based on the detected vulnerabilities.
-
-**Installation**
 ---------------
 
 To install CyberGuard, follow these steps:
