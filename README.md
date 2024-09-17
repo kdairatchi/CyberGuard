@@ -6,7 +6,6 @@
 CyberGuard is a customizable and user-friendly cybersecurity tool that uses AI to scan networks, detect vulnerabilities, and provide recommendations for improvement.
 
 **Installation**
----------------
 
 1.  Clone the repository: `git clone https://github.com/kdairatchi/CyberGuard.git`
 2.  Install the dependencies: `pip install -r requirements.txt`
@@ -22,7 +21,6 @@ CyberGuard is a customizable and user-friendly cybersecurity tool that uses AI t
 4.  Train the AI model: `python cyberguard.py train data.csv`
 
 **Usage**
------
 
 1.  Scan the network: `python cyberguard.py scan_network 192.168.1.0/24`
 2.  Scan the ports: `python cyberguard.py scan_ports 192.168.1.100 22 80 443`
@@ -30,14 +28,12 @@ CyberGuard is a customizable and user-friendly cybersecurity tool that uses AI t
 4.  Provide recommendations: `python cyberguard.py provide_recommendations 192.168.1.100 22 80 443`
 
 **Troubleshooting**
-----------------
 
 *   **Error: No `data.csv` file found**: Create a `data.csv` file with the correct format and train the AI model using the `train` command.
 *   **Error: AI model not trained**: Train the AI model using the `train` command and the `data.csv` file.
 *   **Error: Invalid IP address or port range**: Check the IP address and port range and try again.
 
 **Updates**
--------
 
 *   To update CyberGuard, run `git pull` in the repository directory.
 *   To update the dependencies, run `pip install -r requirements.txt` in the repository directory.
